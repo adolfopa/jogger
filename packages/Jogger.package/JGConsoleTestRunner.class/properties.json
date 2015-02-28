@@ -1,0 +1,14 @@
+{
+	"category" : "Jogger-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JGConsoleTestRunner",
+	"pools" : [
+		 ],
+	"super" : "JGTestRunner",
+	"type" : "normal" }

@@ -4,7 +4,8 @@
 		"runPackage:" : "adolfopa 2/28/2015 19:47",
 		"runSuite:" : "adolfopa 2/28/2015 19:48" },
 	"instance" : {
-		"done" : "adolfopa 2/28/2015 19:50",
+		"defaultAuthorName" : "adolfopa 2/28/2015 20:23",
+		"done" : "adolfopa 2/28/2015 20:26",
 		"handleFailure:of:" : "adolfopa 2/28/2015 19:54",
 		"handleSkip:of:" : "adolfopa 2/28/2015 19:56",
 		"increaseTestCount" : "adolfopa 2/28/2015 19:52",
@@ -14,7 +15,7 @@
 		"printProgress" : "adolfopa 2/28/2015 19:54",
 		"printReport" : "adolfopa 2/28/2015 20:04",
 		"printTestCase:" : "adolfopa 2/28/2015 19:53",
-		"run" : "adolfopa 2/28/2015 19:50",
+		"run" : "adolfopa 2/28/2015 20:24",
 		"runAll" : "adolfopa 2/28/2015 19:51",
 		"runCase:" : "adolfopa 2/28/2015 19:52",
 		"serializeError:of:" : "adolfopa 2/28/2015 19:56",

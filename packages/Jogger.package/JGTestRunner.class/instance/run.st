@@ -1,7 +1,7 @@
 running
 run
 	Author uniqueInstance
-		ifUnknownAuthorUse: 'hudson'
+		ifUnknownAuthorUse: self defaultAuthorName
 		during: [ [ 
 			self setUp.
 			suiteTime := [ self runAll ]
