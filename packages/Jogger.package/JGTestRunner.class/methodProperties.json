@@ -6,8 +6,9 @@
 	"instance" : {
 		"defaultAuthorName" : "adolfopa 2/28/2015 20:23",
 		"done" : "adolfopa 2/28/2015 20:26",
-		"handleFailure:of:" : "adolfopa 2/28/2015 19:54",
-		"handleSkip:of:" : "adolfopa 2/28/2015 19:56",
+		"handleFailure:of:" : "adolfopa 2/28/2015 20:34",
+		"handleSkip:of:" : "adolfopa 2/28/2015 20:34",
+		"handleSuccessOf:" : "adolfopa 2/28/2015 20:35",
 		"increaseTestCount" : "adolfopa 2/28/2015 19:52",
 		"initialize" : "adolfopa 2/28/2015 19:49",
 		"initializeOn:" : "adolfopa 2/28/2015 19:49",

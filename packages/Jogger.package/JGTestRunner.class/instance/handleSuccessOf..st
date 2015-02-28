@@ -1,0 +1,3 @@
+helper
+handleSuccessOf: aTestCase
+	self subclassResponsibility
