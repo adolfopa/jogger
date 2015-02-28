@@ -4,9 +4,8 @@
 		"runPackage:" : "adolfopa 2/28/2015 19:47",
 		"runSuite:" : "adolfopa 2/28/2015 22:29" },
 	"instance" : {
-		"beforeTestCase:" : "adolfopa 2/28/2015 22:18",
+		"beforeTestCase:" : "adolfopa 2/28/2015 22:52",
 		"defaultAuthorName" : "adolfopa 2/28/2015 20:23",
-		"finishReport" : "adolfopa 2/28/2015 22:23",
 		"handleFailure:of:" : "adolfopa 2/28/2015 20:34",
 		"handleSkip:of:" : "adolfopa 2/28/2015 20:34",
 		"handleSuccessOf:" : "adolfopa 2/28/2015 20:35",
@@ -15,8 +14,8 @@
 		"initializeOn:" : "adolfopa 2/28/2015 20:46",
 		"run" : "adolfopa 2/28/2015 20:24",
 		"runAll" : "adolfopa 2/28/2015 19:51",
-		"runCase:" : "adolfopa 2/28/2015 22:18",
+		"runCase:" : "adolfopa 2/28/2015 22:52",
 		"serializeError:of:" : "adolfopa 2/28/2015 19:56",
 		"setUp" : "adolfopa 2/28/2015 19:51",
 		"shouldSerializeError" : "adolfopa 2/28/2015 19:55",
-		"tearDown" : "adolfopa 2/28/2015 22:23" } }
+		"tearDown" : "adolfopa 2/28/2015 22:54" } }

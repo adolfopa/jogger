@@ -1,3 +1,2 @@
 running
 tearDown
-	self finishReport

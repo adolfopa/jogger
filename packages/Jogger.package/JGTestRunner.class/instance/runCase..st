@@ -1,6 +1,5 @@
 running
 runCase: aTestCase
-	self increaseTestCount.
 	self beforeTestCase: aTestCase.
 	
 	[[ aTestCase runCase ] 

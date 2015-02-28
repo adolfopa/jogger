@@ -1,3 +1,4 @@
 as yet unclassified
-finishReport
+tearDown
+	super tearDown.
 	self printReport
