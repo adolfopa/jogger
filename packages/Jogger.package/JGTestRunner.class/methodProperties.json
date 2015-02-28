@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"runClasses:named:" : "adolfopa 2/28/2015 19:47",
+		"runPackage:" : "adolfopa 2/28/2015 19:47",
+		"runSuite:" : "adolfopa 2/28/2015 19:48" },
+	"instance" : {
+		"done" : "adolfopa 2/28/2015 19:50",
+		"handleFailure:of:" : "adolfopa 2/28/2015 19:54",
+		"handleSkip:of:" : "adolfopa 2/28/2015 19:56",
+		"increaseTestCount" : "adolfopa 2/28/2015 19:52",
+		"initialize" : "adolfopa 2/28/2015 19:49",
+		"initializeOn:" : "adolfopa 2/28/2015 19:49",
+		"print:short:of:" : "adolfopa 2/28/2015 19:57",
+		"printProgress" : "adolfopa 2/28/2015 19:54",
+		"printReport" : "adolfopa 2/28/2015 20:04",
+		"printTestCase:" : "adolfopa 2/28/2015 19:53",
+		"run" : "adolfopa 2/28/2015 19:50",
+		"runAll" : "adolfopa 2/28/2015 19:51",
+		"runCase:" : "adolfopa 2/28/2015 19:52",
+		"serializeError:of:" : "adolfopa 2/28/2015 19:56",
+		"setUp" : "adolfopa 2/28/2015 19:51",
+		"shouldSerializeError" : "adolfopa 2/28/2015 19:55",
+		"stderr" : "adolfopa 2/28/2015 19:53",
+		"stdout" : "adolfopa 2/28/2015 19:57",
+		"tearDown" : "adolfopa 2/28/2015 19:52" } }
