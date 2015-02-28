@@ -1,4 +1,4 @@
-printing
+private - printing
 printTestCase: aTestCase 
 	self stderr 
 		startOfLine; clearToEnd; green; 

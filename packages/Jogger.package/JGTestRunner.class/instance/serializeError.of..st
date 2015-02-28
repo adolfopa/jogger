@@ -1,4 +1,4 @@
-running
+private
 serializeError: error of: aTestCase
 	"We got an error from a test, let's serialize it so we can properly debug it later on..."
 	| context testCaseMethodContext |

@@ -1,4 +1,4 @@
-helper
+private - printing
 print: anLongErrorMesssage short: aShortString of: aTestCase 
 	| testCaseString offset |
 

@@ -1,4 +1,4 @@
-helper
+test case events
 handleFailure: anError of: aTestCase 
 	self printFailure: anError of: aTestCase.
 	self shouldSerializeError 

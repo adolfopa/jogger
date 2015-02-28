@@ -1,4 +1,4 @@
-helper
+private - printing
 printFailure: anError of: aTestCase 
 	self stderr red.
 	self

@@ -1,4 +1,4 @@
-running
+runner events
 setUp
 	currentTest := 0.
 	maxTest := suite tests size.
