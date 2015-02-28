@@ -13,9 +13,7 @@
 		"suiteFailures",
 		"suitePosition",
 		"currentTest",
-		"maxTest",
-		"stderr",
-		"stdout" ],
+		"maxTest" ],
 	"name" : "JGTestRunner",
 	"pools" : [
 		 ],

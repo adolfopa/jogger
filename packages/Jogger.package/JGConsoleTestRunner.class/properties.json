@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"progressFile" ],
+		"progressFile",
+		"stderr",
+		"stdout" ],
 	"name" : "JGConsoleTestRunner",
 	"pools" : [
 		 ],
