@@ -1,7 +1,7 @@
 running
 runCase: aTestCase
 	self increaseTestCount.
-	self printTestCase: aTestCase.
+	self beforeTestCase: aTestCase.
 	
 	[[ aTestCase runCase ] 
 		on: Halt , Error, TestFailure

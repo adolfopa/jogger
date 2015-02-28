@@ -1,3 +1,3 @@
 running
 tearDown
-	self printReport
+	self finishReport
