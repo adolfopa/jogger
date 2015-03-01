@@ -3,7 +3,7 @@ run
 	Author uniqueInstance
 		ifUnknownAuthorUse: self defaultAuthorName
 		during: [ [ 
-			self setUp.
+			self beforeRunningSuite.
 			suiteTime := [ self runAll ]
 				timeToRun ]
-					ensure: [ self tearDown ] ]
+					ensure: [ self afterRunningSuite ] ]
