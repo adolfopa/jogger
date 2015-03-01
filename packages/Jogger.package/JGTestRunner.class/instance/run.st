@@ -4,6 +4,5 @@ run
 		ifUnknownAuthorUse: self defaultAuthorName
 		during: [ [ 
 			self beforeRunningSuite.
-			suiteTime := [ self runAll ]
-				timeToRun ]
+			suiteTime := [ self runAll ] timeToRun ]
 					ensure: [ self afterRunningSuite ] ]
