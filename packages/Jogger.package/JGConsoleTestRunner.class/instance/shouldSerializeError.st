@@ -1,3 +1,3 @@
-accessing
+private - error serialization
 shouldSerializeError
 	^ shouldSerializeError
