@@ -4,7 +4,6 @@
 	"instance" : {
 		"afterRunningSuite" : "adolfopa 3/1/2015 01:37",
 		"beforeTestCase:" : "adolfopa 3/1/2015 01:42",
-		"defaultAuthorName" : "adolfopa 2/28/2015 20:25",
 		"handleFailure:of:" : "adolfopa 2/28/2015 20:33",
 		"handleSkip:of:" : "adolfopa 2/28/2015 23:16",
 		"handleSuccessOf:" : "adolfopa 2/28/2015 20:35",
