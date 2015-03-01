@@ -1,3 +1,3 @@
 accessing
 defaultAuthorName
-	self subclassResponsibility
+	^ 'jogger'
