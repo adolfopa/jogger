@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"listener",
 		"suite",
 		"suiteTime",
 		"suiteErrors",
