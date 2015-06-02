@@ -1,7 +1,7 @@
 private - printing
-printTestCase: aTestCase 
+printTestCase: aTestCaseAnnouncement
 	self stderr 
 		startOfLine; clearToEnd; green; 
-		print: aTestCase; clear.
+		print: (aTestCaseAnnouncement testCase); clear.
 
 	self printProgress.

@@ -2,18 +2,16 @@
 	"class" : {
 		 },
 	"instance" : {
-		"afterRunningSuite" : "adolfopa 3/1/2015 01:37",
-		"beforeTestCase:" : "adolfopa 3/1/2015 01:42",
-		"handleFailure:of:" : "adolfopa 2/28/2015 20:33",
-		"handleSkip:of:" : "adolfopa 2/28/2015 23:16",
-		"handleSuccessOf:" : "adolfopa 2/28/2015 20:35",
-		"initialize" : "adolfopa 3/1/2015 01:57",
+		"handleFailure:" : "adolfopa 6/3/2015 00:09",
+		"handleSkip:" : "adolfopa 6/3/2015 00:10",
+		"initialize" : "adolfopa 6/3/2015 00:11",
 		"print:short:of:" : "adolfopa 2/28/2015 23:15",
 		"printFailure:of:" : "adolfopa 2/28/2015 22:12",
 		"printProgress" : "adolfopa 2/28/2015 23:14",
 		"printReport" : "adolfopa 2/28/2015 23:14",
-		"printTestCase:" : "adolfopa 2/28/2015 23:13",
+		"printTestCase:" : "adolfopa 6/3/2015 00:06",
 		"serializeError:of:" : "adolfopa 3/1/2015 01:55",
 		"shouldSerializeError" : "adolfopa 3/1/2015 01:55",
 		"stderr" : "adolfopa 2/28/2015 23:13",
-		"stdout" : "adolfopa 2/28/2015 22:09" } }
+		"stdout" : "adolfopa 2/28/2015 22:09",
+		"subscribe" : "adolfopa 6/3/2015 00:13" } }
