@@ -1,0 +1,1 @@
+I announce the failure of a test case.

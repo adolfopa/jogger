@@ -1,0 +1,1 @@
+I announce the successful execution of a test case.

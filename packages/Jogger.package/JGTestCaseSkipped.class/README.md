@@ -1,0 +1,1 @@
+I announce when a test case has been skipped.

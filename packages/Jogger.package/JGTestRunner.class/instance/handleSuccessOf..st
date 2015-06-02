@@ -1,3 +1,3 @@
 test case events
 handleSuccessOf: aTestCase
-	listener ifNotNil: [ listener onSuccessOf: aTestCase ]
+	self announcer announce: (JGTestCaseSuccess for: aTestCase)
