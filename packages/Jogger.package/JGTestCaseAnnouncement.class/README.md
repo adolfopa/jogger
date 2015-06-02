@@ -1,0 +1,1 @@
+This is a base class for all Jogger test case announcements.

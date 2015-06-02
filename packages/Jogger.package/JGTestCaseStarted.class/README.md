@@ -1,0 +1,1 @@
+I announce the event of a test case started running.

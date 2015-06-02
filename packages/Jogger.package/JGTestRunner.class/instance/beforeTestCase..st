@@ -1,5 +1,5 @@
 test case events
 beforeTestCase: aTestCase
-	listener ifNotNil: [ listener beforeTestCase: aTestCase ].
+	self announcer announce: (JGTestCaseStarted for: aTestCase).
 	
 	self increaseTestCount.

@@ -1,0 +1,14 @@
+{
+	"category" : "Jogger-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "adolfopa 6/2/2015 23:30",
+	"instvars" : [
+		 ],
+	"name" : "JGTestCaseFinished",
+	"pools" : [
+		 ],
+	"super" : "JGTestCaseAnnouncement",
+	"type" : "normal" }
