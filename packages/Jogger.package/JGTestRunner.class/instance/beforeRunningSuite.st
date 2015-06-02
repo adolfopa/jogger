@@ -1,6 +1,6 @@
 suite events
 beforeRunningSuite
-	listener ifNotNil: [ listener beforeSuite: suite ].
+	self announcer announce: (JGTestSuiteStarted new).
 	
 	currentTest := 0.
 	maxTest := suite tests size.

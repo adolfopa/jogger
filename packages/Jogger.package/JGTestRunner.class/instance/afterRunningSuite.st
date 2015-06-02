@@ -1,3 +1,3 @@
 suite events
 afterRunningSuite
-	listener ifNotNil: [ listener afterSuite: suite ]
+	self announcer announce: (JGTestSuiteFinished new)

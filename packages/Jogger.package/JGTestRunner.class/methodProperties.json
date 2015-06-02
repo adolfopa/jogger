@@ -4,10 +4,10 @@
 		"runPackage:" : "adolfopa 2/28/2015 19:47",
 		"runSuite:" : "adolfopa 2/28/2015 22:29" },
 	"instance" : {
-		"afterRunningSuite" : "adolfopa 3/18/2015 21:46",
+		"afterRunningSuite" : "adolfopa 6/2/2015 23:40",
 		"afterTestCase:" : "adolfopa 6/2/2015 23:33",
 		"announcer" : "adolfopa 6/2/2015 23:32",
-		"beforeRunningSuite" : "adolfopa 3/18/2015 21:47",
+		"beforeRunningSuite" : "adolfopa 6/2/2015 23:41",
 		"beforeTestCase:" : "adolfopa 6/2/2015 23:34",
 		"defaultAuthorName" : "adolfopa 3/1/2015 01:51",
 		"handleFailure:of:" : "adolfopa 3/18/2015 21:48",
