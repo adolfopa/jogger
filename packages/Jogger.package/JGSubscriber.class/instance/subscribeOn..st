@@ -1,0 +1,3 @@
+announcement subscription
+subscribeOn: anAnnounce
+	self subclassResponsibility 

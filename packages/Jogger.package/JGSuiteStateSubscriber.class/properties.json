@@ -1,0 +1,15 @@
+{
+	"category" : "Jogger-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "adolfopa 6/3/2015 15:50",
+	"instvars" : [
+		"currentTest",
+		"maxTest" ],
+	"name" : "JGSuiteStateSubscriber",
+	"pools" : [
+		 ],
+	"super" : "JGSubscriber",
+	"type" : "normal" }

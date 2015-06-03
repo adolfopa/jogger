@@ -11,8 +11,8 @@
 		"stderr",
 		"stdout",
 		"suiteState" ],
-	"name" : "JGConsoleTestRunner",
+	"name" : "JGConsoleSubscriber",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "JGSubscriber",
 	"type" : "normal" }
