@@ -1,3 +1,3 @@
 suite events
 afterRunningSuite
-	self announcer announce: (JGTestSuiteFinished for: suite)
+	self announcer announce: (JGTestSuiteFinished for: suite tookMillis: suiteTime)

@@ -7,7 +7,8 @@
 	"commentStamp" : "adolfopa 6/3/2015 15:50",
 	"instvars" : [
 		"currentTest",
-		"maxTest" ],
+		"maxTest",
+		"suiteTime" ],
 	"name" : "JGSuiteStateSubscriber",
 	"pools" : [
 		 ],

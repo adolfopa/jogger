@@ -8,9 +8,6 @@
 	"instvars" : [
 		"suite",
 		"suiteTime",
-		"suiteErrors",
-		"suiteFailures",
-		"suitePosition",
 		"announcer" ],
 	"name" : "JGTestRunner",
 	"pools" : [

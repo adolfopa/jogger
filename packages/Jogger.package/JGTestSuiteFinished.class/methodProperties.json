@@ -1,5 +1,6 @@
 {
 	"class" : {
-		 },
+		"for:tookMillis:" : "adolfopa 6/3/2015 19:22" },
 	"instance" : {
-		 } }
+		"setTestSuite:millis:" : "adolfopa 6/3/2015 19:23",
+		"timeToRun" : "adolfopa 6/3/2015 19:23" } }

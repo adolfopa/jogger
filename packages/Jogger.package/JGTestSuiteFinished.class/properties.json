@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "adolfopa 6/3/2015 15:52",
 	"instvars" : [
-		 ],
+		"millis" ],
 	"name" : "JGTestSuiteFinished",
 	"pools" : [
 		 ],
