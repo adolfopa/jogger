@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "adolfopa 6/2/2015 23:38",
 	"instvars" : [
-		 ],
+		"testSuite" ],
 	"name" : "JGTestSuiteAnnouncement",
 	"pools" : [
 		 ],
