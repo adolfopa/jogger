@@ -1,4 +1,4 @@
-as yet unclassified
+announcement subscription
 subscribeOn: anAnnouncer
 	anAnnouncer
 		when: JGTestSuiteStarted send: #initializeState: to: self;

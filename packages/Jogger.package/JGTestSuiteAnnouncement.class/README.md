@@ -1,1 +1,1 @@
-Base class for all suite lifecycle events.
+I am a base class for all suite lifecycle events.

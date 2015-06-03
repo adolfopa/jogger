@@ -1,3 +1,3 @@
-as yet unclassified
+instance creation
 for: aSuite
 	^ self new setTestSuite: aSuite

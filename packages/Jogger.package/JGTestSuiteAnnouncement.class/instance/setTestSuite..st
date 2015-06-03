@@ -1,3 +1,3 @@
-as yet unclassified
+private - initialization
 setTestSuite: aTestSuite
 	testSuite := aTestSuite

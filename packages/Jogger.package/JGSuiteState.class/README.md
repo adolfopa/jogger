@@ -1,1 +1,1 @@
-I maintain the state of a running test suite.
+I am responsible for maintaining the state of a running test suite.

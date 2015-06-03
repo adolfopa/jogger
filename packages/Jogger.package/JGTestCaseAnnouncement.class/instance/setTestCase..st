@@ -1,3 +1,3 @@
-as yet unclassified
+private - initialization
 setTestCase: aTestCase
 	testCase := aTestCase

@@ -1,1 +1,1 @@
-Announce the event of a test suite finished running.
+I announce the event of a test suite finished running.
