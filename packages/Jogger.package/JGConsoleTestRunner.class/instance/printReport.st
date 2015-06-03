@@ -1,7 +1,7 @@
 private - printing
 printReport
 	self stderr lf; 
-		nextPutAll: 'Finished running '; print: maxTest; 
+		nextPutAll: 'Finished running '; print: suiteState maxTest; 
 		nextPutAll: ' Test';
-		nextPutAll: (maxTest = 1 ifTrue: [''] ifFalse: ['s']);
+		nextPutAll: (suiteState maxTest = 1 ifTrue: [''] ifFalse: ['s']);
 		lf

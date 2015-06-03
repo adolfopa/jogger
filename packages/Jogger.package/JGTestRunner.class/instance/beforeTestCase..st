@@ -1,5 +1,3 @@
 test case events
 beforeTestCase: aTestCase
-	self announcer announce: (JGTestCaseStarted for: aTestCase).
-	
-	self increaseTestCount.
+	self announcer announce: (JGTestCaseStarted for: aTestCase)

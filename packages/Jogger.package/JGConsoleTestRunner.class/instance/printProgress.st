@@ -1,7 +1,10 @@
 private - printing
 printProgress
-	| string |
+	| string currentTest maxTest|
 
+	currentTest := suiteState currentTest.
+	maxTest := suiteState maxTest.
+	
 	string := '[',currentTest asString, '/', maxTest asString,']'.
 
 	self stderr 

@@ -4,14 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "adolfopa 6/3/2015 15:06",
 	"instvars" : [
-		"progressFile",
-		"shouldSerializeError",
-		"stderr",
-		"stdout",
-		"suiteState" ],
-	"name" : "JGConsoleTestRunner",
+		"currentTest",
+		"maxTest" ],
+	"name" : "JGSuiteState",
 	"pools" : [
 		 ],
 	"super" : "Object",

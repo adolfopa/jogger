@@ -1,6 +1,8 @@
 private - announcement subscription
-subscribe
-	self announcer
+subscribeOn: anAnnouncer
+	suiteState := JGSuiteState registerOn: anAnnouncer.
+	
+	anAnnouncer
 		when: JGTestSuiteFinished send: #printReport to: self;
 		when: JGTestCaseStarted send: #printTestCase: to: self;
 		when: JGTestCaseFailed send: #handleFailure: to: self;

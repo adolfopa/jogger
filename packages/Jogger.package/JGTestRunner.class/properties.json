@@ -11,8 +11,6 @@
 		"suiteErrors",
 		"suiteFailures",
 		"suitePosition",
-		"currentTest",
-		"maxTest",
 		"announcer" ],
 	"name" : "JGTestRunner",
 	"pools" : [
