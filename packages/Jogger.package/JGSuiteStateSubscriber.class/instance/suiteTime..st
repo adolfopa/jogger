@@ -1,3 +1,3 @@
-as yet unclassified
+test suite lifecycle
 suiteTime: anAnnouncement
 	suiteTime := anAnnouncement timeToRun
