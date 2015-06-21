@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertAnnounced" : "adolfopa 6/5/2015 22:53",
+		"beAnnounced" : "adolfopa 6/5/2015 22:53",
+		"setUp" : "adolfopa 6/21/2015 22:59",
+		"testRunnerShouldAnnounceSuiteFinished" : "adolfopa 6/21/2015 22:55",
+		"testRunnerShouldAnnounceSuiteStarted" : "adolfopa 6/21/2015 22:55",
+		"testRunnerShouldAnnounceTestFailureOnError" : "adolfopa 6/21/2015 22:55",
+		"testRunnerShouldAnnounceTestFailureOnHalt" : "adolfopa 6/21/2015 22:55",
+		"testRunnerShouldAnnounceTestFailureOnTestFailure" : "adolfopa 6/21/2015 22:56",
+		"testRunnerShouldAnnounceTestFinished" : "adolfopa 6/21/2015 22:56",
+		"testRunnerShouldAnnounceTestSkipOnSkip" : "adolfopa 6/21/2015 22:56",
+		"testRunnerShouldAnnounceTestStart" : "adolfopa 6/21/2015 22:56",
+		"testRunnerShouldAnnounceTestSuccessOnSuccess" : "adolfopa 6/21/2015 22:57" } }

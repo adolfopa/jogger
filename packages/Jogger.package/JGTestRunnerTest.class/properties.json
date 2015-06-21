@@ -1,0 +1,17 @@
+{
+	"category" : "Jogger-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announced",
+		"suite",
+		"testCase",
+		"runner" ],
+	"name" : "JGTestRunnerTest",
+	"pools" : [
+		 ],
+	"super" : "BabyMock2TestCase",
+	"type" : "normal" }
